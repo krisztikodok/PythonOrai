@@ -1,0 +1,2 @@
+# PythonOrai
+órai gyakorlatok
